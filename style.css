@@ -1,0 +1,23 @@
+*{
+    margin: ;
+    padding: ;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: grey;
+}
+
+.main{
+    text-align: center;
+}
+
+.input{
+    text-align: center;
+    margin: 100px auto;
+}
+
+.weather{
+    text-align: center;
+}
